@@ -74,8 +74,8 @@ I'm an experienced **Application Support/Software Engineer** with a strong backg
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuel-amo&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-amo&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelamo&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelamo&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 Achievements
@@ -130,7 +130,7 @@ I'm an experienced **Application Support/Software Engineer** with a strong backg
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emmanuel-amo&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=emmanuelamo&style=for-the-badge&color=blue" alt="Profile Views" />
   
   **⭐ Star my repositories if you find them helpful!**
 </div>
